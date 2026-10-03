@@ -1,7 +1,7 @@
 {
   "$schema": "https://ui.shadcn.com/schema/registry.json",
   "name": "harshj",
-  "homepage": "https://shadcn-transfer-list.vercel.app",
+  "homepage": "https://shadcn-transfer-list-d4gb-two.vercel.app",
   "items": [
     {
       "name": "transfer-list",

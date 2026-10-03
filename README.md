@@ -9,7 +9,7 @@ Addresses shadcn-ui/ui [#2114](https://github.com/shadcn-ui/ui/issues/2114) and 
 ```bash
 npx shadcn@latest add @harshj/transfer-list
 # or by URL
-npx shadcn@latest add https://shadcn-transfer-list.vercel.app/r/transfer-list.json
+npx shadcn@latest add https://shadcn-transfer-list-d4gb-two.vercel.app/r/transfer-list.json
 ```
 
 ## Usage
